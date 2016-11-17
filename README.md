@@ -37,8 +37,3 @@ WZBGradualTableView *tableView = [WZBGradualTableView gradualTableViewWithFrame:
  
   ![image](https://github.com/WZBbiao/WZBGradualTableView/blob/master/3.gif?raw=true)
   
- 怎么样，您学会怎么用了吗？
-
- 您还可以加入我们的群，大家庭期待您的加入！
- 
- ![image](https://raw.githubusercontent.com/WZBbiao/WZBSwitch/master/IMG_1850.JPG)
